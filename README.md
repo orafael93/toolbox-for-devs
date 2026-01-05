@@ -17,6 +17,10 @@ This tool was built to save time and stay focused on complex feature development
 
 ![Toolbox for Devs Demo](./public/gifs/project-in-action.gif)
 
+## 🔗 Live Preview
+
+Check out the live version of the application here: [https://orafael.dev/toolbox-for-devs/](https://orafael.dev/toolbox-for-devs/)
+
 ## ✨ Key Features
 
 ### 1. Request to cURL Builder
@@ -39,6 +43,7 @@ Already have a cURL command? Paste it and instantly get the equivalent code in:
 Native support for both themes, ensuring a comfortable experience whether you're working in a bright office or a late-night coding session.
 
 ### 4. Data Persistence
+
 Your work is automatically saved even if you refresh the page or close the browser. Using **Local Storage**, the application persists your latest request configuration so you can pick up exactly where you left off.
 
 ## 🏗️ Architectural Choice: Lightweight Global State
