@@ -19,7 +19,7 @@ This tool was built to save time and stay focused on complex feature development
 
 ## 🔗 Live Preview
 
-Check out the live version of the application here: [https://orafael.dev/toolbox-for-devs/](https://orafael.dev/toolbox-for-devs/)
+Check out the live version of the application here: [https://toolbox-for-devs.orafael.dev/](https://toolbox-for-devs.orafael.dev/)
 
 ## ✨ Key Features
 
